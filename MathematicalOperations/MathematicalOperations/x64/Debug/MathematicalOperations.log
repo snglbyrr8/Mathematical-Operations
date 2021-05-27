@@ -1,0 +1,4 @@
+﻿  MathematicalOperations.cpp
+C:\Users\songül bayer\source\repos\MathematicalOperations\MathematicalOperations\MathematicalOperations.cpp(89,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\songül bayer\source\repos\MathematicalOperations\MathematicalOperations\MathematicalOperations.cpp(99,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MathematicalOperations.vcxproj -> C:\Users\songül bayer\source\repos\MathematicalOperations\x64\Debug\MathematicalOperations.exe
